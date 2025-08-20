@@ -84,9 +84,9 @@ t=25
 
 * **U.Sanathanan** – GUI development, implementation, coding
 
-* **Perera B.V.N.** – Mathematical derivations
-* **Perera N.A.P.V.S.** – Mathematical derivations
-* **Prabodha P.A.D.** – Mathematical derivations
+* **B.V.N. Perera** – Mathematical derivations
+* **N.A.P.V.S. Perera** – Mathematical derivations
+* **P.A.D. Prabodha** – Mathematical derivations
 
 ---
 

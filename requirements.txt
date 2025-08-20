@@ -1,0 +1,7 @@
+cat > requirements.txt << 'EOF'
+
+numpy
+PyQt5
+matplotlib
+
+EOF

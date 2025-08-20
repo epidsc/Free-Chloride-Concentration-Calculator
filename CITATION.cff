@@ -1,0 +1,56 @@
+cff-version: 1.2.0
+title: "Free Chloride Concentration Calculator"
+message: "If you use this software, please cite it as below."
+date-released: 2025-08-20
+version: "1.0.0"
+license: MIT
+repository-code: "https://github.com/epidsc/Free-Chloride-Concentration-Calculator"
+
+authors:
+
+  - family-names: "Uruthireswaran"
+    given-names: "Sanathanan"
+    
+- family-names: "Perera"
+    given-names: "B.V.N."
+
+- family-names: "Perera"
+    given-names: "N.A.P.V.S."
+
+- family-names: "Prabodha"
+    given-names: "P.A.D."
+
+acknowledgements: 
+  We acknowledge Dr. D.A.S. Amarasinghe for academic supervision and guidance during this project.
+
+references:
+  - type: article
+    authors:
+      - family-names: "Qiu"
+        given-names: "X."
+
+      - family-names: "Yuan"
+        given-names: "J."
+
+      - family-names: "Chen"
+        given-names: "W."
+
+     - family-names: "Tan"
+        given-names: "X."
+
+     - family-names: "Wu"
+        given-names: "G."
+
+     - family-names: "Tian"
+        given-names: "H."
+
+    title: "Effect of chloride binding and sulfate ion attack on the chloride diffusion in calcium sulfoaluminate-based material under seawater environment"
+    journal: "Journal of Materials Research and Technology"
+    volume: "30"
+    issue: "1"
+    pages: "4261–4271"
+    published: 2024-04
+    doi: "10.1016/j.jmrt.2024.04.139"
+
+
+

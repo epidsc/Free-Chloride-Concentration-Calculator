@@ -92,8 +92,8 @@ t=25
 
 ## 🙏 Acknowledgments
 
-Developed as part of an academic project under the guidance of Dr. D.A.S. Amarasinghe.
-Mathematical modeling and derivation were based on work by X. Qiu et al. (2024).
+* Developed as part of an academic project under the guidance of Dr. D.A.S. Amarasinghe.
+* Mathematical modeling and derivation were based on work by X. Qiu et al. (2024).
 
 ---
 
@@ -117,5 +117,3 @@ If you use this software in academic or technical work, please cite:
 https://github.com/user-attachments/assets/4263ed52-06b0-4763-85ae-c1de8cef885a
 
 ```
-
-

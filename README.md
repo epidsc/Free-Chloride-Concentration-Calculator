@@ -92,7 +92,8 @@ t=25
 
 ## 🙏 Acknowledgments
 
-We would like to express our sincere gratitude to **Dr. D.A.S. Amarasinghe** for his invaluable academic supervision, guidance, and support throughout the development of this project.
+Developed as part of an academic project under the guidance of Dr. D.A.S. Amarasinghe.
+Mathematical modeling and derivation were based on work by X. Qiu et al. (2024).
 
 ---
 

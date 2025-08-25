@@ -92,7 +92,7 @@ t=25
 
 ## 🙏 Acknowledgments
 
-We acknowledge **Dr. D.A.S. Amarasinghe** for academic supervision and guidance during this project.
+We would like to express our sincere gratitude to **Dr. D.A.S. Amarasinghe** for his invaluable academic supervision, guidance, and support throughout the development of this project.
 
 ---
 
